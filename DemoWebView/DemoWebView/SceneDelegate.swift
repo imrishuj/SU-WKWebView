@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  DemoWebView
 //
-//  Created by Juspay on 18/06/20.
+//  Created by Rishabh on 18/06/20.
 //  Copyright © 2020 Rishabh. All rights reserved.
 //
 
